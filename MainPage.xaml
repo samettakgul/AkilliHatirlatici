@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AkilliHatirlatici.Views.MainPage"
+             Title="Hatırlatıcılar">
+
+    <StackLayout Padding="20">
+        <Label Text="Yeni Hatırlatma" FontSize="Large" HorizontalOptions="Center" />
+
+        <Entry x:Name="titleEntry" Placeholder="Başlık" />
+        <Editor x:Name="descriptionEditor" Placeholder="Açıklama" />
+        <DatePicker x:Name="datePicker" />
+        <TimePicker x:Name="timePicker" />
+
+        <Button Text="Ekle" Clicked="OnAddReminderClicked" />
+
+        <ListView x:Name="reminderList" ItemSelected="OnReminderSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Title}" Detail="{Binding ReminderTime}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

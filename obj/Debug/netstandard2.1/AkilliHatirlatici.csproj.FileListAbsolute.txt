@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\bin\Debug\netstandard2.1\AkilliHatirlatici.deps.json
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\bin\Debug\netstandard2.1\AkilliHatirlatici.dll
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\bin\Debug\netstandard2.1\ref\AkilliHatirlatici.dll
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\bin\Debug\netstandard2.1\AkilliHatirlatici.pdb
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\HatirlaticiEklePage.xaml.g.cs
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.AssemblyInfo.cs
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.dll
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\refint\AkilliHatirlatici.dll
+C:\Users\admin\Desktop\Remindx\AkilliHatirlatici\AkilliHatirlatici\AkilliHatirlatici\obj\Debug\netstandard2.1\AkilliHatirlatici.pdb
